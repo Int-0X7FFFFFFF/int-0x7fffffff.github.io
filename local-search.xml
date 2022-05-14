@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>机器人基础指令</title>
+    <link href="/2022/05/13/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E6%8C%87%E4%BB%A4/"/>
+    <url>/2022/05/13/%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%9F%BA%E7%A1%80%E6%8C%87%E4%BB%A4/</url>
+    
+    <content type="html"><![CDATA[<p>#彩虹计划 <ahref="https://github.com/Rainbow-Project/bot_rain_py">关于机器人开源的问题可以看这里</a></p><h2 id="有关wows的指令">有关wows的指令</h2><p><code>wows 服务器 set 你的wows名字</code></p><p>服务器从** ["asia", "eu", "na", "ru"] **中选择</p><p>分别为 亚服 欧服 美服 毛服</p><p>！没有国服</p><p><code>wows me</code></p><p>查询绑定的账号战绩</p><p><code>wows me recent</code></p><p>查询近期战绩</p><p><code>wows me ship 船名</code></p><p>船名可以采用部分别名如早饭6</p><p>###<strong><em><em>感谢军团里的好兄弟Kcuftoe的反和谐和别名还有图标绘制支持</em></em></strong></p><p><code>wows 你的wows名字</code></p><p>可以直接查询但是会默认查询亚服</p><p><code>wows 你的wows名字 ship 船名</code></p><p>查询单船战绩</p><p>船名可以采用部分别名如早饭6</p><p><code>wows 服务器 你的wows名字</code></p><p>服务器从** ["asia", "eu", "na", "ru"] **中选择</p><p>查询给定的账号战绩</p><p><code>包含饿还饿</code> 如：群主什么时候表演一下饿还饿啊</p><p><img src="https://intmax.top/img/pic_src/pic/OHO.jpg" alt="饿还饿" /><img src="https://intmax.top/img/pic_src/pic/OHO2.jpg" alt="饿还饿" /><img src="https://intmax.top/img/pic_src/pic/OHO3.png" alt="饿还饿" />启动三张饿还饿名场面</p><p><code>不如大胆@某人</code></p><p>生成一张@某人不如大胆的表情包</p><p><strong><em><em>！不要复制@</em></em></strong></p><h2 id="表情包功能">表情包功能</h2><p><code>摸头/爬/不如大胆/吞/精神支柱/丢/膜拜 + @某人</code></p><p>生成对应的表情包或gif</p><p>例如 <code>不如大胆@群主</code></p><p><strong><em>！如果不加@某人 等同于@自己</em></strong></p><h2 id="其他功能">其他功能</h2><p><code>色图雷达</code></p><p>将从色图雷达站（本网站）中随机找一张色图（可能并不色）</p><p><code>天气 上海</code></p><p>获取上海天气（仅限地级市仅限国内）</p><p><code>早上好</code> <code>包含钉宫</code> 如：来点钉宫触发一个随机钉宫语音</p><p><code>anime/anime tomorrow/anime yesterday</code></p><p>看看今天/明天/昨天有什么更新的番剧（从b站获取）</p><p><code>COVID-19</code></p><p>查看全球新冠疫情排行（其实不用看也知道美国独树一帜）</p><p><code>今天谁生日</code></p><p>看一下今天有哪位虚拟人物过生日</p><p><code>萌娘百科 萌百娘</code></p><p>不好用而且很慢，服务器不行，只能查角色极其不推荐使用</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>战舰世界PR计算及原理</title>
     <link href="/2022/05/06/%E6%88%98%E8%88%B0%E4%B8%96%E7%95%8CPR%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%8E%9F%E7%90%86/"/>
     <url>/2022/05/06/%E6%88%98%E8%88%B0%E4%B8%96%E7%95%8CPR%E8%AE%A1%E7%AE%97%E5%8F%8A%E5%8E%9F%E7%90%86/</url>
